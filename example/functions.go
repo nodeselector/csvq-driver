@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/query"
 )
 
 func ExitWithError(err error) {

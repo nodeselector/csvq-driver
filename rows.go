@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/mithrandie/csvq/lib/query"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/value"
 	"github.com/mithrandie/ternary"
 )
 

@@ -4,9 +4,9 @@ import (
 	"context"
 	"database/sql/driver"
 
-	"github.com/mithrandie/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/parser"
 
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/query"
 )
 
 type Tx struct {

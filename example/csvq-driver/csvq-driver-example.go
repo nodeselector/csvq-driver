@@ -1,5 +1,5 @@
 // Usage:
-//   $ cd $GOPATH/src/github.com/mithrandie/csvq-driver
+//   $ cd $GOPATH/src/github.com/nodeselector/csvq-driver
 //   $ go build ./example/csvq-driver/csvq-driver-example.go
 //   $ ./csvq-driver-example -r ./example/data
 //
@@ -13,9 +13,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/mithrandie/csvq-driver/example"
+	"github.com/nodeselector/csvq-driver/example"
 
-	_ "github.com/mithrandie/csvq-driver"
+	_ "github.com/nodeselector/csvq-driver"
 )
 
 var repository = flag.String("r", "", "repository")

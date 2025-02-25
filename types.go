@@ -4,7 +4,7 @@ import (
 	"database/sql/driver"
 	"time"
 
-	"github.com/mithrandie/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/parser"
 	"github.com/mithrandie/ternary"
 )
 
