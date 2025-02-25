@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/query"
 )
 
 func TestConn_BeginTx(t *testing.T) {

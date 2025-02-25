@@ -1,5 +1,5 @@
 // Usage:
-//   $ cd $GOPATH/src/github.com/mithrandie/csvq-driver
+//   $ cd $GOPATH/src/github.com/nodeselector/csvq-driver
 //   $ go build ./example/csvq-driver/csvq-replace-io-example.go
 //   $ ./csvq-replace-io-example
 //
@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/query"
 
-	"github.com/mithrandie/csvq-driver"
-	"github.com/mithrandie/csvq-driver/example"
+	"github.com/nodeselector/csvq-driver"
+	"github.com/nodeselector/csvq-driver/example"
 )
 
 func main() {

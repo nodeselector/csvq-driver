@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/query"
 )
 
 var session *query.Session

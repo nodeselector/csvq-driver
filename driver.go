@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql/driver"
 
-	"github.com/mithrandie/csvq/lib/file"
+	"github.com/nodeselector/csvq/lib/file"
 )
 
 type Driver struct {
